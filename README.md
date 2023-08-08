@@ -1,0 +1,2 @@
+# ifconfig
+look your ip
